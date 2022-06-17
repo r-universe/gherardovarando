@@ -1,0 +1,14 @@
+[
+  {
+    "package": "gclm",
+    "oncran": true
+  },
+  {
+    "package": "gmat",
+    "oncran": true
+  },
+  {
+    "package": "stagedtrees",
+    "oncran": true
+  }
+]
