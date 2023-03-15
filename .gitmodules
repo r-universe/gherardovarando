@@ -8,13 +8,13 @@
 	url = https://github.com/gherardovarando/gclm
 	shallow = true
 	registered = true
-[submodule "stagedtrees"]
-	path = stagedtrees
-	url = https://github.com/gherardovarando/stagedtrees
-	shallow = true
-	registered = true
 [submodule "gmat"]
 	path = gmat
 	url = https://github.com/gherardovarando/gmat
+	shallow = true
+	registered = true
+[submodule "stagedtrees"]
+	path = stagedtrees
+	url = https://github.com/gherardovarando/stagedtrees
 	shallow = true
 	registered = true

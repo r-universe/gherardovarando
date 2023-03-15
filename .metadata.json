@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "stagedtrees",
+    "package": "gmat",
     "oncran": true
   },
   {
-    "package": "gmat",
+    "package": "stagedtrees",
     "oncran": true
   }
 ]
