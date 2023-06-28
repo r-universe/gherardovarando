@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gclm"]
 	path = gclm
 	url = https://github.com/gherardovarando/gclm
-	shallow = true
-	registered = true
 [submodule "gmat"]
 	path = gmat
 	url = https://github.com/gherardovarando/gmat
-	shallow = true
-	registered = true
 [submodule "stagedtrees"]
 	path = stagedtrees
 	url = https://github.com/gherardovarando/stagedtrees
-	shallow = true
-	registered = true
