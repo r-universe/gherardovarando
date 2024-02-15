@@ -5,6 +5,3 @@
 [submodule "gclm"]
 	path = gclm
 	url = https://github.com/gherardovarando/gclm
-[submodule "stagedtrees"]
-	path = stagedtrees
-	url = https://github.com/gherardovarando/stagedtrees
